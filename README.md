@@ -1,2 +1,2 @@
 # hello-world
-Intro guid
+Intro guide
